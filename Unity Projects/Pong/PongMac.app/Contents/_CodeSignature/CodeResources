@@ -470,7 +470,7 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		gqwv4F5rZAhDRu4/ffTO8EYh+J8=
+		WYDCoLKcHN7NOWKBMnSLRCPsivA=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -498,7 +498,7 @@
 		</data>
 		<key>Resources/Data/level5</key>
 		<data>
-		ttKbT2wBpgNfHul7udSHdPbFxCU=
+		KdrmVoBXdoLQ86diChiO8Dohid8=
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
@@ -765,10 +765,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			NZ9Xe1kpsmvTjLEQvWDYCExBjRo=
+			qbNplkGJkmMZbOTsxOa1w1vmoQE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"359f577b5929b26bd38cb110bd60d8084c418d1a" or cdhash H"4f88c6f70b4ad3703bb1a92116804fc144c75985"</string>
+			<string>cdhash H"a9b3699641899263196ce4ecc4e6b5c35be6a101" or cdhash H"4d48524910b24a9ff6a48c871b7412965d819a77"</string>
 		</dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<dict>
@@ -1586,7 +1586,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EW2AMIgkRzG/STfxq+TTFwVtxypmI/VmEAKiSA034Dk=
+			lqAvSBa99+KYmBx/cg3v9EYjedrPEj6sOotLFbNAQkU=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
@@ -1635,7 +1635,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			12xSoMYIvvaEI+Z3gXkEqkNk/kP4AyWjkJFR72DGrGU=
+			Ifk+B/4WhRlUJ6LGM55nTZzGmnO7h2Gke3I5oz/CnYA=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets</key>
