@@ -1,0 +1,1 @@
+The goal of this project was to create a polynomial class that can create polynomial objects and perform addition, subtraction, scaling, and multiplication. There are 2 different ways to do it, either change the original polynomial to the answer or store the answer in a new polynomial and leave the original 2 polynomials untouched. This class allows polynomial math to occur.
