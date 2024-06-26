@@ -1,1 +1,0 @@
-For the mac build, if you have a permissions issue when trying to open pong, you may have to open it in files. right click, and then open it through there. 

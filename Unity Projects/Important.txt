@@ -1,1 +1,0 @@
-It is possible that either or both of the games will give security issues when trying to open it. If this occurs open it up in files, right click and open it. you may need to right click and open twice, but then there should be an option to open anyways.
